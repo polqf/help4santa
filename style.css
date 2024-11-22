@@ -111,8 +111,8 @@
 	.banner .text a{
 		float: left;
 		padding: 1.3vw 3vw;
-		background: yellow;
-		color: #000;
+		background: #1786ff;
+		color: #fff;
 		font-size: 1.2vw;
 	}
 	.banner .text a span{
@@ -141,11 +141,10 @@
 		height: auto;
 	}
 
-
-	.about{
+	.about {
 		padding: 6vw 0;
 		font-family: 'Manrope', sans-serif;
-		background: #ddd;
+		background: #fff;
 	}
 	.about .text{
 		float: left;
@@ -175,6 +174,14 @@
 		aspect-ratio: 16/9;
 		object-fit: cover;
 		object-position: center;
+	}
+
+	.about .text a{
+		float: center;
+		padding: 1.3vw 3vw;
+		background: #1786ff;
+		color: #fff;
+		font-size: 1.2vw;
 	}
 
 
