@@ -78,6 +78,18 @@
 		color: dodgerblue;
 		border-bottom: 1px solid dodgerblue;
 	}
+	.language-selector {
+		background: #1786ff;
+		overflow: hidden;
+	}
+	.language-btn {
+		background: #1786ff;
+		float: right;
+		padding: 10px 50px;
+		color: #fff;
+		font-size: 1.2vw;
+		font-family: 'Manrope', sans-serif;
+	}
 	.banner{
 		padding: 20vw 0 14vw 0;
 		background-size: cover !important;
@@ -127,8 +139,6 @@
 		width: 100%;
 		height: auto;
 	}
-
-
 
 	.brands{
 		background: #fff;
@@ -183,10 +193,6 @@
 		color: #fff;
 		font-size: 1.2vw;
 	}
-
-
-
-
 
 	.services{
 		padding: 6vw 0 6vw 0;
