@@ -87,7 +87,7 @@
 		float: right;
 		padding: 10px 50px;
 		color: #fff;
-		font-size: 1.2vw;
+		font-size: 20px;
 		font-family: 'Manrope', sans-serif;
 	}
 	.banner{
@@ -125,7 +125,7 @@
 		padding: 1.3vw 3vw;
 		background: #1786ff;
 		color: #fff;
-		font-size: 1.2vw;
+		font-size: 20px;
 	}
 	.banner .text a span{
 		margin-left: 0.7vw;
@@ -191,7 +191,7 @@
 		padding: 1.3vw 3vw;
 		background: #1786ff;
 		color: #fff;
-		font-size: 1.2vw;
+		font-size: 20px;
 	}
 
 	.services{
